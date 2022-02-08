@@ -9,4 +9,4 @@ Hello!My name is RectHua,I am from Aerosoft,China.I am a Windows OS lover.
 I loves make Win32 programs,but My skill is not very good(My English is not very good,too.)
 My small development society named Aerosoft,It is a gathering place for windows enthusiasts and junior developers。
 Our Offical Website is:http://windows.3vhost.net/
-It is very simple.Welcome to download the application I developed! thank you!
+This website is very simple.Welcome to download the application I developed! thank you!
